@@ -13,7 +13,7 @@ following dependencies:
 - Python 3
 - PyYAML
 
-Run `build.py` in the root directory. This will create a file called 
+Run `make` in the root directory. This will create a file called 
 `providers.json`. Copy (or symlink) this file to the oauth1 local
 data directory (`~/.local/share/oauth1` or `/usr/share/oauth1`).
 
