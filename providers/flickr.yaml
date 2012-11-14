@@ -1,0 +1,7 @@
+auth_endpoint: https://www.flickr.com/services/oauth/authorize
+resources: https://api\.flickr\.com|http://api\.flickr\.com|https://www\.flickr\.com|http://www\.flickr\.com
+temp_cred_endpoint: http://www.flickr.com/services/oauth/request_token
+temp_cred_endpoint_method: GET
+token_cred_endpoint: http://www.flickr.com/services/oauth/access_token
+token_cred_endpoint_method: GET
+auth_params: {"perms": "delete"}

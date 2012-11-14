@@ -1,0 +1,4 @@
+auth_endpoint: https://bitbucket.org/!api/1.0/oauth/authenticate
+resources: https?://api\.bitbucket\.org
+temp_cred_endpoint: https://bitbucket.org/!api/1.0/oauth/request_token
+token_cred_endpoint: https://bitbucket.org/!api/1.0/oauth/access_token

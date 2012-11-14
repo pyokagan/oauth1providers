@@ -1,0 +1,4 @@
+auth_endpoint: http://api.t.sina.com.cn/oauth/authorize
+resources: https?://api\.t\.sina\.com\.cn|https?://api\.t\.sina\.com\.cn
+temp_cred_endpoint: http://api.t.sina.com.cn/oauth/request_token
+token_cred_endpoint: http://api.t.sina.com.cn/oauth/access_token

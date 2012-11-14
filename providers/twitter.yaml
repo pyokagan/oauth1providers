@@ -1,0 +1,4 @@
+auth_endpoint: https://api.twitter.com/oauth/authorize
+resources: https://api\.twitter\.com|https://userstream\.twitter\.com|https://stream\.twitter\.com
+temp_cred_endpoint: https://api.twitter.com/oauth/request_token
+token_cred_endpoint: https://api.twitter.com/oauth/access_token

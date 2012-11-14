@@ -1,0 +1,4 @@
+auth_endpoint: https://api.login.yahoo.com/oauth/v2/request_auth
+resources: http://social\.yahooapis\.com
+temp_cred_endpoint: https://api.login.yahoo.com/oauth/v2/get_request_token
+token_cred_endpoint: https://api.login.yahoo.com/oauth/v2/get_token

@@ -1,0 +1,5 @@
+auth_endpoint: https://trello.com/1/OAuthAuthorizeToken
+resources: https?://trello\.com
+temp_cred_endpoint: https://trello.com/1/OAuthGetRequestToken
+token_cred_endpoint: https://trello.com/1/OAuthGetAccessToken
+auth_params: {"scope": "read,write,account", "expiration": "never"}

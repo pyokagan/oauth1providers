@@ -1,0 +1,5 @@
+auth_endpoint: https://vimeo.com/oauth/authorize
+resources: https?://vimeo\.com/api/rest/v2
+temp_cred_endpoint: https://vimeo.com/oauth/request_token
+token_cred_endpoint: https://vimeo.com/oauth/access_token
+auth_params: {"permission": "delete"}

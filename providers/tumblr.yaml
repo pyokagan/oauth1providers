@@ -1,0 +1,4 @@
+auth_endpoint: https://www.tumblr.com/oauth/authorize
+resources: https://api\.tumblr\.com
+temp_cred_endpoint: https://www.tumblr.com/oauth/request_token
+token_cred_endpoint: https://www.tumblr.com/oauth/access_token
